@@ -19,7 +19,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'diff-lcs', '~> 1.2.5'
   gem.add_dependency 'erubis', '~> 2.7.0'
-  gem.add_dependency 'nokogiri', '~> 1.6.6'
+  gem.add_dependency 'nokogiri', '~> 1.8.0'
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'rspec'
 end
